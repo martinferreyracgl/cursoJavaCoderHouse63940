@@ -1,4 +1,4 @@
-package com.ejercitacion00;
+package com.ejercitacion01;
 
 public class Clase01 {
 
